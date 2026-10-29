@@ -1,9 +1,5 @@
 # Reidentify Backend
 
-## News API
-
-Set `NEWS_API_KEY` in `.env` to your FreeNewsApi.io API key. The key is sent to
-FreeNewsApi.io by the backend and is never returned to API clients.
 
 ### List articles by topic
 
